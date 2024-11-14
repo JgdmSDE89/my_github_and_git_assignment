@@ -1,1 +1,8 @@
-Hello, welcome to my_github_and_git_assignment
+
+
+Hello, welcome to 
+my_github_and_git_assignment.
+Gabby is editing the README file.
+
+
+
